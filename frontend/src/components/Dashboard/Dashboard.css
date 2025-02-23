@@ -1,0 +1,12 @@
+.dashboard {
+  width: 100%;
+  min-height: 100vh;
+  display: block;
+  padding-top: 70px; 
+}
+
+.content {
+  margin-top: 20px; 
+  padding: 20px;
+  display: block;
+}
